@@ -1,0 +1,1 @@
+{'0_spectators': {'@'}, '1_spectators': {'Bw'}, '2_spectators': {'C]'}, '3_spectators': set(), '4_spectators': set(), '5_spectators': set(), '6_spectators': set(), '7_spectators': set(), '8_spectators': set(), '9_spectators': set()}

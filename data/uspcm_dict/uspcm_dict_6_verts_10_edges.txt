@@ -1,0 +1,1 @@
+{'EJ\\w': 3, 'EB^w': 3, 'EJ]w': 3, 'E@~w': 4, 'EBnw': 3, 'EInw': 3, 'EB~o': 4, 'EJmw': 3, 'EK^w': 3, 'EJnW': 3, 'ER^W': 3, 'Es\\w': 4, 'EK~o': 4, 'ELrw': 4, 'Ek]w': 4}

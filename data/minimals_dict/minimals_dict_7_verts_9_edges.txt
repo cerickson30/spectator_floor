@@ -1,0 +1,1 @@
+{'0_spectators': {'@'}, '1_spectators': {'CF', 'Bw'}, '2_spectators': {'D?{', 'C]', 'E@UW'}, '3_spectators': {'E@JW', 'DFw', 'EIe_', 'E?Bw'}, '4_spectators': {'E?~o', 'ELrw', 'EFz_', 'FK_yo', 'F_YPw', 'ELv_'}, '5_spectators': {'FDp~o', 'F_]vw', 'F?B~o', 'FbY|o', 'F_|tg', 'F?~v_', 'FsLZW'}, '6_spectators': set(), '7_spectators': set(), '8_spectators': set(), '9_spectators': set()}

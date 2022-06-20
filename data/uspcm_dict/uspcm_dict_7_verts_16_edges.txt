@@ -1,0 +1,1 @@
+{'FJ\\~w': 4, 'FB^~w': 5, 'FJ]~w': 4, 'FJ^~o': 5, 'F@~~w': 5, 'FBn~w': 5, 'FIn~w': 5, 'FB~vw': 5, 'FJm~w': 4, 'FK^~w': 5, 'FJn^w': 5, 'FR^^w': 5, 'FJn~o': 5, 'Fj]|w': 5, 'Fs\\~w': 5, 'FFz~o': 5, 'FK~vw': 5, 'FLr~w': 5, 'Fk]~w': 5, 'FLv~o': 5, 'FZn]w': 5}
